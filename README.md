@@ -1,6 +1,6 @@
-#README
+README
 
-##Getting started
+Getting started
 Download / Clone the file
 Use google chrome and type chrome://extensions in the extensions
 Allow Developer mode
